@@ -7,7 +7,7 @@ from app.pwd_utils import hash_password
 db = SessionLocal()
 
 # Manually add a test user
-test_username = "testuser"
+test_username = "testuser2"
 test_password = "testpassword"
 
 # Hash the password
